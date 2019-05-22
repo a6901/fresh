@@ -1,4 +1,4 @@
-git https://github.com/a6901/fresh.git    //获取代码
+git clone https://github.com/a6901/fresh.git    //获取代码
 
 ###登录接口
 ~~~
