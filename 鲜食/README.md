@@ -1,4 +1,4 @@
-git clone https://git.dev.tencent.com/a6901/fresh.git    //获取代码
+git https://github.com/a6901/fresh.git    //获取代码
 
 ###登录接口
 ~~~
